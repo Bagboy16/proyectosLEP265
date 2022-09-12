@@ -1,2 +1,2 @@
 # proyectosLEP265
-Proyectos realizados en la materia Lenguajes de Programación I
+Proyectos realizados en la materia Lenguajes de Programación I, organizados en carpetas
