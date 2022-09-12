@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\bin\Debug\Ejercicio 1 - LEP265.exe.config
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\bin\Debug\Ejercicio 1 - LEP265.exe
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\bin\Debug\Ejercicio 1 - LEP265.pdb
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\obj\Debug\Ejercicio 1 - LEP265.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\obj\Debug\Ejercicio 1 - LEP265.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\obj\Debug\Ejercicio 1 - LEP265.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\obj\Debug\Ejercicio 1 - LEP265.exe
+C:\Users\user\Desktop\C#\Ejercicio 1 - LEP265\Ejercicio 1 - LEP265\obj\Debug\Ejercicio 1 - LEP265.pdb
